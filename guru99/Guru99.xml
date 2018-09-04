@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!-- <suite name="Guru99 Practices Suite" verbose="3">
+<test name="Guru99 Practices Tests">
+<parameter name="sUsername"  value="mngr148233"></parameter>
+<parameter name="sPassword"  value="atUzAbu"></parameter>
+<classes>
+<class name="guru99Exercises.VerifyLogin"></class>
+<class name="guru99Exercises.VerifyHomepage"></class>
+<class name="guru99Exercises.LoginCredentialsTestcases"></class>
+<class name="guru99Exercises.VerifyLoginUsingParameters"></class>
+</classes>
+</test>
+
+</suite> -->
+
+<suite name="Guru99 Practices Suite2" verbose="3">
+<test name="Guru99 Practices Tests2">
+<classes>
+<class name="guru99Exercises.EcommerceDay1"></class>
+</classes>
+</test>
+
+</suite>
