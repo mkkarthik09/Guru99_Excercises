@@ -6,9 +6,7 @@
       <class name="guru99Exercises.EcommerceDay1">
         <methods>
           <include name="ecommerceDay4"/>
-          <include name="ecommerceDay2"/>
           <include name="openBroswer"/>
-          <include name="ecommerceDay3"/>
         </methods>
       </class> <!-- guru99Exercises.EcommerceDay1 -->
     </classes>

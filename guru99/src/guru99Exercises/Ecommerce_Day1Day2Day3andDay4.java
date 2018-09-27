@@ -17,7 +17,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
 
-public class EcommerceDay1 {
+public class Ecommerce_Day1Day2Day3andDay4 {
 	WebDriver driver;
 	
 	@BeforeSuite
